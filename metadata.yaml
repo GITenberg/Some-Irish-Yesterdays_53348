@@ -1,5 +1,8 @@
 _repo: Some-Irish-Yesterdays_53348
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53348-rst/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Ross, Martin
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5334
     wikipedia: http://en.wikipedia.org/wiki/Edith_Anna_Somerville
 description: Illustrated by Somerville.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53348#Some-Irish-Yesterdays
 gutenberg_issued: '2016-10-22'
 gutenberg_type: Text
 identifiers:
